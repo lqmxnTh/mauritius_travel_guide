@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>95834653175-6cmvv34viteuju6rds5pi9bshij2qp6b.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.95834653175-6cmvv34viteuju6rds5pi9bshij2qp6b</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIkurAcFMGKS5REs7VLi7sc8zidqxHLVE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>95834653175</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mauritiusTravelGuide</string>
+	<key>PROJECT_ID</key>
+	<string>mauritius-travel-guide-161dd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mauritius-travel-guide-161dd.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:95834653175:ios:dcfeeedd11f71e0f13eef2</string>
+</dict>
+</plist>

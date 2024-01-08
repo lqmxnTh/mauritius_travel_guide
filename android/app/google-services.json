@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "95834653175",
+    "project_id": "mauritius-travel-guide-161dd",
+    "storage_bucket": "mauritius-travel-guide-161dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95834653175:android:ec35c8e115caabc413eef2",
+        "android_client_info": {
+          "package_name": "com.example.mauritius_travel_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95834653175-3l9emh675rs0q76cgoqieckt5bb4lh33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCATDd__uvOmzJaGy9qOs4nbuduDCTOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95834653175-3l9emh675rs0q76cgoqieckt5bb4lh33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95834653175-6cmvv34viteuju6rds5pi9bshij2qp6b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mauritiusTravelGuide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
